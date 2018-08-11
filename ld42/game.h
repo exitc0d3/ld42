@@ -23,6 +23,7 @@ private:
 	bool _isMovingRight = false;
 
 	float PlayerSpeed = 50.f;
+	//
 
 	sf::Time TimePerFrame = sf::seconds(1.f / 60.f); // Time per logic tick 
 

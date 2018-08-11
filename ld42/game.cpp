@@ -1,5 +1,6 @@
 #include "stdafx.h"
 #include "game.h"
+//
 
 Game::Game()
 	: _window(sf::VideoMode(640, 480), "SFML Application")
